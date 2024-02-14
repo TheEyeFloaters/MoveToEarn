@@ -36,7 +36,7 @@ To play the game, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/MoveToEarn.git
+    git clone https://github.com/TheEyeFloaters/MoveToEarn.git
     ```
 
 2. Navigate to the project directory:
