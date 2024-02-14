@@ -1,7 +1,6 @@
+# MoveToEarn
 
-# Energy Maze Game
-
-This is a simple energy maze game written in Rust. The objective of the game is to navigate the player character through a grid-based maze to reach a target position while managing their energy levels.
+MoveToEarn is a simple Rust-based game where the player character navigates through a grid-based maze to reach a target position while managing their energy levels.
 
 ## How to Play
 
@@ -37,13 +36,13 @@ To play the game, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/energy-maze-game.git
+    git clone https://github.com/your-username/MoveToEarn.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd energy-maze-game
+    cd MoveToEarn
     ```
 
 3. Compile and run the game using Rust:
